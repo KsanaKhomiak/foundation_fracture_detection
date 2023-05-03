@@ -5,4 +5,5 @@ Detection of the foundation fractures and cracks contours and creating bouding b
 
 ## Preview
 
-![foundation_fracture_detection](https://user-images.githubusercontent.com/106553826/235963524-72cdae4f-2da6-4d67-9c4c-065addebdca1.png)
+
+![foundation_fracture_detection2](https://user-images.githubusercontent.com/106553826/235968741-e1d0575d-642e-4a06-a289-3e3967e31683.png)
