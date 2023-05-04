@@ -1,7 +1,9 @@
 # foundation_fracture_detection
-Detection of cracks in the building foundation
 
-Detection of the foundation fractures and cracks contours and creating bouding boxes and elipse for its future characterization.
+Detection of the building foundation fractures and cracks. 
+
+Finding its contours and creating bounding boxes and fractures axis for its future characterization.
+Calculating the size of the fractures through contours area.
 
 ## Preview
 
